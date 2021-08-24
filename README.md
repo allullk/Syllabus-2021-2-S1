@@ -8,9 +8,9 @@ El curso constará de 5 evaluaciones, tres interrogaciones y dos tareas, donde c
 
 | Tipo  | Tópico                             | Fecha        | Clase  | Grabación | Otros |
 | :-:   | -                                  | :-:          | :-:    | :-:       | :-:   |
-| Clase   | Introducción al ramo             | 17/08        |  [PPT](../../tree/master/Clases/00-presentation.pptx)  | [Link](https://drive.google.com/file/d/1l5in7s6GEZ05tGA8-FGFCv2w2lyNYfEg/view)  | ...   |
-| Clase   | Logica Digital         | 19/08        | [PPT](../../tree/master/Clases/01-Logica_Digital.ppt)  | [Link](https://drive.google.com/file/d/1KCKW-J6-cmE2OoRG2_cT68LZWzryywY-/view?usp=sharing)  | ...   |
-| Ayudantía | Numeros binarios y compuertas | 23/08 | [PPT](https://github.com/IIC2343/Syllabus-2021-2-S1/tree/main/Ayudantias)    | [Link](https://drive.google.com/drive/folders/1YNourSBCk6hASioBES9AyUBm9Hq-OS_Q?usp=sharing)       | ... |
+| Clase   | Introducción al ramo             | 17/08        |  [PDF](../../tree/master/Clases/00-presentation.pdf)  | [Link](https://drive.google.com/file/d/1l5in7s6GEZ05tGA8-FGFCv2w2lyNYfEg/view)  | ...   |
+| Clase   | Logica Digital         | 19/08        | [PDF](../../tree/master/Clases/01-Logica_Digital.pdf)  | [Link](https://drive.google.com/file/d/1KCKW-J6-cmE2OoRG2_cT68LZWzryywY-/view?usp=sharing)  | ...   |
+| Ayudantía | Numeros binarios y compuertas | 23/08 | [PDF](https://github.com/IIC2343/Syllabus-2021-2-S1/blob/main/Ayudantias/Ayudant%C3%ADa%231.pdf)    | [Link](https://drive.google.com/drive/folders/1YNourSBCk6hASioBES9AyUBm9Hq-OS_Q?usp=sharing)       | ... |
 
 
 ## Calendario evaluaciones 📄
