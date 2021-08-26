@@ -12,7 +12,7 @@ El curso constará de 5 evaluaciones, tres interrogaciones y dos tareas, donde c
 | Clase   | Logica Digital         | 19/08        | [PDF](../../tree/master/Clases/01-Logica_Digital.pdf)  | [Link](https://drive.google.com/file/d/1KCKW-J6-cmE2OoRG2_cT68LZWzryywY-/view?usp=sharing)  | ...   |
 | Ayudantía | Numeros binarios y compuertas | 23/08 | [PDF](https://github.com/IIC2343/Syllabus-2021-2-S1/blob/main/Ayudantias/Ayudant%C3%ADa%231.pdf)    | [Link](https://drive.google.com/drive/folders/1YNourSBCk6hASioBES9AyUBm9Hq-OS_Q?usp=sharing)       | ... |
 | Clase   | Aritmetica y numeros         | 24/08        | [PDF](../../tree/master/Clases/02-aritmértica&números.pdf)  | [Link](https://drive.google.com/file/d/1QN8SBEfHUTDWXJYApfndx1_1Z6VKSfLZ/view?usp=sharing) | ...   |
-| Clase   | Procesador v1         | 26/08        | [PDF](../../tree/master/Clases/03-procesador-v1.pdf)  | | ...   |
+| Clase   | Procesador v1         | 26/08        | [PDF](../../tree/master/Clases/03-procesador-v1.pdf)  | [Link](https://drive.google.com/file/d/1EPzXh9Flr7SN89CIZBQFoCFlx43leImI/view?usp=sharing) | ...   |
 
 
 
