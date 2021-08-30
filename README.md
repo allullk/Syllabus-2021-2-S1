@@ -40,7 +40,7 @@ Para consultas de materia, ramo, tareas, etc. usaremos las [issues](https://gith
 | Jorge | Schenke | Ayudante | jschenke@uc.cl |
 | Susana | Figueroa | Ayudante | sfigueroa3@uc.cl |
 | Tomás | Contreras | Ayudante | tcontrerasc@uc.cl |
-| Rocío | Hernandez | Ayudante | rbhernandez@uc.cl |
+| Rocío | Hernández | Ayudante | rbhernandez@uc.cl |
 | Sebastían | Ramos | Ayudante | ramos.sebastian1@uc.cl |
 
 ## Emulador 💻
