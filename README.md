@@ -33,7 +33,16 @@ El curso constará de 5 evaluaciones, tres interrogaciones y dos tareas, donde c
 
 Para consultas de materia, ramo, tareas, etc. usaremos las [issues](https://github.com/IIC2343/Syllabus-2021-2-S1/issues) del syllabus, por favor recuerden seguir el Formato™ y **buscar** en las issues antes de hacer una pregunta. Recuerden que si bien vamos a estar respondiendo las issues, ustedes también pueden ayudar a responder dudas.
 
-Temas administrativos no relacionados con materia, al mail del curso [iic2343@ing.puc.cl](mailto:iic2343@ing.puc.cl) y para cosas privadas o sensibles, como dificultades de cualquier índole, imprevistos, enfermedad, etc, está disponible el correo del profesor, [yadran@ing.puc.cl](mailto:yadran@ing.puc.cl).
+| Nombre | Apellido | Cargo | Mail |
+| --- | --- | --- | --- |
+| Yadran | Eterovic | Profesor | yadran@uc.cl |
+| Adnrés | González | Ayudante | aagonzalez5@uc.cl |
+| Jorge | Schenke | Ayudante | jschenke@uc.cl |
+| Laurence | Golborne | Ayudante | lgolborne@uc.cl |
+| Susana | Figueroa | Ayudante | sfigueroa3@uc.cl |
+| Tomás | Contreras | Ayudante | tcontrerasc@uc.cl |
+| Rocío | Hernandez | Ayudante | rbhernandez@uc.cl |
+| Sebastían | Ramos | Ayudante | ramos.sebastian1@uc.cl |
 
 ## Emulador 💻
 
