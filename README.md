@@ -36,7 +36,7 @@ Para consultas de materia, ramo, tareas, etc. usaremos las [issues](https://gith
 | Nombre | Apellido | Cargo | Mail |
 | --- | --- | --- | --- |
 | Yadran | Eterovic | Profesor | yadran@uc.cl |
-| Adnrés | González | Ayudante | aagonzalez5@uc.cl |
+| Andrés | González | Ayudante | aagonzalez5@uc.cl |
 | Jorge | Schenke | Ayudante | jschenke@uc.cl |
 | Laurence | Golborne | Ayudante | lgolborne@uc.cl |
 | Susana | Figueroa | Ayudante | sfigueroa3@uc.cl |
