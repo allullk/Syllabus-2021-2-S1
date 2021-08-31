@@ -13,7 +13,7 @@ El curso constará de 5 evaluaciones, tres interrogaciones y dos tareas, donde c
 | Ayudantía | Números binarios y compuertas | 23/08 | [PDF](https://github.com/IIC2343/Syllabus-2021-2-S1/blob/main/Ayudantias/Ayudant%C3%ADa%231.pdf)    | [Link](https://drive.google.com/drive/folders/1YNourSBCk6hASioBES9AyUBm9Hq-OS_Q?usp=sharing)       | ... |
 | Clase   | Aritmética y números         | 24/08        | [PDF](../../tree/master/Clases/02-aritmértica&números.pdf)  | [Link](https://drive.google.com/file/d/1QN8SBEfHUTDWXJYApfndx1_1Z6VKSfLZ/view?usp=sharing) | ...   |
 | Clase   | Procesador v1         | 26/08        | [PDF](../../tree/master/Clases/03-procesador-v1.pdf)  | [Link](https://drive.google.com/file/d/1EPzXh9Flr7SN89CIZBQFoCFlx43leImI/view?usp=sharing) | ...   |
-| Ayudantía | Aritmética, números y procesador | 30/08 | [PDF](hhttps://github.com/IIC2343/Syllabus-2021-2-S1/blob/main/Ayudantias/Ayudantia%232.pdf)    |      | ... |
+| Ayudantía | Aritmética, números y procesador | 30/08 | [PDF](../../tree/master/Ayudantias/Ayudantia%232.pdf)    |      | ... |
 
 
 
