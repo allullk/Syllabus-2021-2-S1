@@ -15,7 +15,7 @@ El curso constará de 5 evaluaciones, tres interrogaciones y dos tareas, donde c
 | Clase   | Procesador v1         | 26/08        | [PDF](../../tree/master/Clases/03-procesador-v1.pdf)  | [Link](https://drive.google.com/file/d/1EPzXh9Flr7SN89CIZBQFoCFlx43leImI/view?usp=sharing) | ...   |
 | Ayudantía | Aritmética, números y procesador | 30/08 | [PDF](../../tree/master/Ayudantias/Ayudantia%232.pdf)    |  [Link](https://drive.google.com/file/d/1app7-Aoqb36ogvCb2ac91E1lZnDQdId9/view?usp=sharing)    | ... |
 | Clase   | Procesador v2         | 31/08        | [PDF](../../tree/master/Clases/03-procesador-v1.pdf)  | [Link](https://drive.google.com/file/d/1z6FdWGemL_wrdX9CKRfll08r7WNunfIf/view?usp=sharing) | ...   |
-
+| Clase   | Procesador v3         | 02/09        | [PDF](../../tree/master/Clases/03-procesador-v1.pdf)  | [Link](https://drive.google.com/file/d/15qlzjhOU-ibD0j2OuRZmqyfRiGgafgk-/view?usp=sharing) | ...   |
 
 
 
