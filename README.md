@@ -44,6 +44,7 @@ Para consultas de materia, ramo, tareas, etc. usaremos las [issues](https://gith
 | Tomás | Contreras | Ayudante | tcontrerasc@uc.cl |
 | Rocío | Hernández | Ayudante | rbhernandez@uc.cl |
 | Sebastían | Ramos | Ayudante | ramos.sebastian1@uc.cl |
+| Joaquín | Viñuela | Ayudante | joaquin.vinuela@uc.cl |
 
 ## Emulador 💻
 
