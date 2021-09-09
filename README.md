@@ -16,8 +16,9 @@ El curso constará de 5 evaluaciones, tres interrogaciones y dos tareas, donde c
 | Ayudantía | Aritmética, números y procesador | 30/08 | [PDF](../../tree/master/Ayudantias/Ayudantia%232.pdf)    |  [Link](https://drive.google.com/file/d/1app7-Aoqb36ogvCb2ac91E1lZnDQdId9/view?usp=sharing)    | ... |
 | Clase   | Procesador v2         | 31/08        | [PDF](../../tree/master/Clases/03-procesador-v1.pdf)  | [Link](https://drive.google.com/file/d/1z6FdWGemL_wrdX9CKRfll08r7WNunfIf/view?usp=sharing) | ...   |
 | Clase   | Procesador v3         | 02/09        | [PDF](../../tree/master/Clases/03-procesador-v1.pdf)  | [Link](https://drive.google.com/file/d/15qlzjhOU-ibD0j2OuRZmqyfRiGgafgk-/view?usp=sharing) | ...   |
-| Ayudantía | Procesador | 06/09 | [PDF](https://github.com/IIC2343/Syllabus-2021-2-S1/blob/main/Ayudantias/Ayudant%C3%ADa%203%20(3).pdf) | [Link](https://drive.google.com/file/d/1zFhwi3sY607cIBe1Zqlyoc9N1VcaWxI0/view?usp=sharing) |
+| Ayudantía | Procesador | 06/09 | [PDF](https://github.com/IIC2343/Syllabus-2021-2-S1/blob/main/Ayudantias/Ayudant%C3%ADa%203%20(3).pdf) | [Link](https://drive.google.com/file/d/1zFhwi3sY607cIBe1Zqlyoc9N1VcaWxI0/view?usp=sharing) | ...   |
 | Clase   | Procesador v4         | 07/09        | [PDF](../../tree/master/Clases/03-procesador-v1.pdf)  | [Link](https://drive.google.com/file/d/1MGq8cx0xFwTstrib8iieAjdofGmdeb04/view?usp=sharing) | ...   |
+| Clase   | Procesador v5         | 09/09        | [PDF](../../tree/master/Clases/03-procesador-v1.pdf)  | [Link](https://drive.google.com/file/d/1OZwa9JdChx59N00kLl7oMyVrP5_YAtMB/view?usp=sharing) | ...   |
 
 
 ## Calendario evaluaciones 📄
