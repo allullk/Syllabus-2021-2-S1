@@ -20,6 +20,7 @@ El curso constará de 5 evaluaciones, tres interrogaciones y dos tareas, donde c
 | Clase   | Procesador v4         | 07/09        | [PDF](../../tree/master/Clases/03-procesador-v1.pdf)  | [Link](https://drive.google.com/file/d/1MGq8cx0xFwTstrib8iieAjdofGmdeb04/view?usp=sharing) | ...   |
 | Clase   | Procesador v5         | 09/09        | [PDF](../../tree/master/Clases/03-procesador-v1.pdf)  | [Link](https://drive.google.com/file/d/1OZwa9JdChx59N00kLl7oMyVrP5_YAtMB/view?usp=sharing) | ...   |
 | Ayudantia | Procesador II | 13/09 | [PDF](https://github.com/IIC2343/Syllabus-2021-2-S1/blob/main/Ayudantias/Ayudantia%234.pdf) | Pendiente | ... |
+| Clase   | Procesador y números  | 14/09        | [PDF](../../tree/master/Clases/03-procesador-v1.pdf) y [PDF](../../tree/master/Clases/02-aritmértica&números.pdf)  | [Link](https://drive.google.com/file/d/1AOPGMDPlEJK7SB0hXq_QhQRFWoqtRuCc/view?usp=sharing) | ...   |
 
 
 ## Calendario evaluaciones 📄
