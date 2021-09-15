@@ -30,8 +30,8 @@ El curso constará de 5 evaluaciones, tres interrogaciones y dos tareas, donde c
 | I1 | 28/09 | 28/09 | ... |
 | I2 | 16/11 | 16/11 | ...|
 | I3 | 10/12 | 10/12 | ...|
-| T1 | ... | ... | ...|
-| T2 | ... | ... | ...|
+| T1 | 21/09 | 05/10 | ...|
+| T2 | 26/10 | 09/11 | ...|
 
 ## Canales de comunicación 📩
 
