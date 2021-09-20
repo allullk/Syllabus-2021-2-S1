@@ -10,13 +10,12 @@
         secondJump:
             la ra, zapallo
             j thirdJump
-            zapallo:
-	            j fourthJump
+        zapallo:
+	        j thirdJump
 
         jumpTest:
             li a0, 0
             addi a0, a0, 20
-            j zapallo
             j secondJump
         
         thirdJump:

@@ -6,3 +6,4 @@
 .text
     __start:
         # do stuff
+	
