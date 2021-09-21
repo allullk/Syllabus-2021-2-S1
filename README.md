@@ -33,11 +33,11 @@ El curso constará de 5 evaluaciones, tres interrogaciones y dos tareas, donde c
 | I1 | 28/09 | 28/09 | ... |
 | I2 | 16/11 | 16/11 | ...|
 | I3 | 10/12 | 10/12 | ...|
-| T1 | 21/09 | 05/10 | ...|
+| T1 | 21/09 | 05/10 | [Enunciado](../../tree/master/Tareas/T1/Enunciado_T1.pdf) - [Template](../../tree/master/Tareas/T1/template_T1.txt)|
 | T2 | 26/10 | 09/11 | ...|
 
 ## Canales de comunicación 📩
-
+    
 ### Horario de atención: 8:00 a 20:00 de Lunes a Viernes, (casi) sin excepciones :trollface:
 
 Para consultas de materia, ramo, tareas, etc. usaremos las [issues](https://github.com/IIC2343/Syllabus-2021-2-S1/issues) del syllabus, por favor recuerden seguir el Formato™ y **buscar** en las issues antes de hacer una pregunta. Recuerden que si bien vamos a estar respondiendo las issues, ustedes también pueden ayudar a responder dudas.
