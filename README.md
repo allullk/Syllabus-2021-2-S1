@@ -34,7 +34,7 @@ El curso constará de 5 evaluaciones, tres interrogaciones y dos tareas, donde c
 | I1 | 28/09 | 28/09 | ... |
 | I2 | 16/11 | 16/11 | ...|
 | I3 | 10/12 | 10/12 | ...|
-| T1 | 21/09 | 05/10 | [Enunciado](../../tree/master/Tareas/T1/Enunciado_T1_v2.pdf) - [Template](../../tree/master/Tareas/T1/template_T1.txt)|
+| T1 | 21/09 | 05/10 | [Enunciado](../../tree/master/Tareas/T1/Enunciado_T1_v2.pdf) - [Template](../../tree/master/Tareas/T1/template_T1.txt) - [Tests](../../tree/master/Tareas/T1/tests_bogo_nn.txt)|
 | T2 | 26/10 | 09/11 | ...|
 
 ## Canales de comunicación 📩
