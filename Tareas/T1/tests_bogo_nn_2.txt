@@ -29,3 +29,8 @@ f)
 I: .word 5, 84, 11
 U: 200
 Malo
+
+g)
+I: .word 15, 48, 37
+U: 550
+Bueno
