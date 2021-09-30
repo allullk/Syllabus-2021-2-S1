@@ -24,8 +24,10 @@ El curso constará de 5 evaluaciones, tres interrogaciones y dos tareas, donde c
 | Clase   | RISC-V  | 16/09        | [PDF](../../tree/master/Clases/04-InstruccionesRISC-V.pdf) | [Link](https://drive.google.com/file/d/1Xi0-MVcPhhdbe5VzQnrvjF5ghVcXewOE/view?usp=sharing) | ...   |
 | Ayudantia | RISC-V | 20/09 | [PDF](https://github.com/IIC2343/Syllabus-2021-2-S1/blob/main/Ayudantias/Ayudantia%235.pdf) | [Link](https://drive.google.com/file/d/1WkjmRRtAXYHGT0x4qmeHztKBu43kcfWz/view?usp=sharing) | [Ejemplos](https://github.com/IIC2343/Syllabus-2021-2-S1/tree/main/Extras/AyRiscv)
 | Clase   | RISC-V (parte 2) | 21/09        | [PDF](../../tree/master/Clases/05-InstruccionesRISC-V-p2.pdf) | [Link](https://drive.google.com/file/d/1Q_RE6obfmsc-5-4TXYqIO9ROBqMKQWYU/view?usp=sharing)  | ...   |
-| Clase   | Memoria 1 | 23/09        | [PDF](../../tree/master/Clases/Memoria-I.pdf) | [Link](https://drive.google.com/file/d/1hr94T_xEZv8nLl_iUWOV6D2h0VIAgLep/view?usp=sharing) | ...   |
+| Clase   | Memoria I | 23/09        | [PDF](../../tree/master/Clases/Memoria-I.pdf) | [Link](https://drive.google.com/file/d/1hr94T_xEZv8nLl_iUWOV6D2h0VIAgLep/view?usp=sharing) | ...   |
 | Ayudantia | Repaso I1 | 27/09 | [PDF](https://github.com/IIC2343/Syllabus-2021-2-S1/blob/main/Ayudantias/Ayudantia_i1.pdf) | [Link](https://drive.google.com/file/d/1wS77UpHxcoUoFVCHXdG_hnFMy1ZWddyN/view?usp=sharing) | 
+| Clase   | Memoria II | 30/09        | [PDF](../../tree/master/Clases/06-Memoria-II.pdf) |  | ...   |
+
 
 ## Calendario evaluaciones 📄
 
